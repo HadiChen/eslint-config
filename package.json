@@ -2,6 +2,7 @@
   "name": "@hdchan/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
+  "description": "eslint config",
   "author": "HadiChan <hwadeichan@gmail.com> (https://github.com/HadiChen)",
   "main": "index.js",
   "homepage": "https://github.com/HadiChen/eslint-config",
