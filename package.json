@@ -1,20 +1,19 @@
 {
   "name": "@hdchan/eslint-config",
-  "version": "1.0.0",
-  "license": "MIT",
+  "version": "1.0.0-beta2",
   "description": "eslint config",
+  "license": "MIT",
   "author": "HadiChan <hwadeichan@gmail.com> (https://github.com/HadiChen)",
   "main": "index.js",
   "homepage": "https://github.com/HadiChen/eslint-config",
   "files": [
-    "./src/basic",
-    "./src/vue.js",
-    "./src/react.js",
-    "./src/typescript.js",
-    "./src/index.js"
+    "basic",
+    "vue.js",
+    "react.js",
+    "typescript.js",
+    "index.js"
   ],
   "scripts": {
-    "preinstall": "husky install",
     "lint": "eslint",
     "lint:fix": "eslint . --fix"
   },
